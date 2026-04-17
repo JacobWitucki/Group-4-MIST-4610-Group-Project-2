@@ -46,7 +46,7 @@ Tables included in the USDOT dataset are:
 
 <img width="680" height="700" alt="Screenshot 2026-04-15 at 12 45 16 PM" src="https://github.com/user-attachments/assets/bce1d72c-41fa-4fc3-971d-38b8feaa5860" />
 
-7. US_DEPARTENT_OF_TRANSPORTATION_TIMESERIES_PIT (336,370,033 Rows)
+7. US_DEPARTMENT_OF_TRANSPORTATION_TIMESERIES_PIT (336,370,033 Rows)
 
 <img width="567" height="709" alt="Screenshot 2026-04-15 at 12 45 50 PM" src="https://github.com/user-attachments/assets/d22511cd-3576-452d-9390-a3bf83a8119e" />
 
@@ -54,5 +54,7 @@ Overall, this dataset is structured to enable **consistent, time-based analysis 
 
 Analytical Questions:  
 
+Which U.S. domestic carriers operate most efficiently as measured by load factor (passengers transported ÷ available seats), and how has that efficiency trended over time across carrier size tiers?
 
+How has the U.S. domestic aviation industry's shift from older aircraft groups (piston, turbo-prop) toward modern jets changed total passengers carried since 1990, and which aircraft groups dominate today?
 
