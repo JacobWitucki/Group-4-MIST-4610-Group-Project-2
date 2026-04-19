@@ -56,5 +56,26 @@ Analytical Questions:
 
 Which U.S. domestic carriers operate most efficiently as measured by load factor (passengers transported ÷ available seats), and how has that efficiency trended over time across carrier size tiers?
 
+Chart 1
+
+
+
+Chart 2
+
+
+
+Chart 3
+
+
+
 How has the U.S. domestic aviation industry's shift from older aircraft groups (piston, turbo-prop) toward modern jets changed total passengers carried since 1990, and which aircraft groups dominate today?
 
+Chart 1
+
+
+
+Chart 2
+
+
+
+Chart 3
